@@ -1,6 +1,6 @@
 <div style="display:flex; align-items:center; gap:20px;">
 
-  <img src="/assets/me.jpeg" width="150";">
+  <img src="/assets/me.jpeg" width="150";>
 
   <div>
      Sasha
