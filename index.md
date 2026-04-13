@@ -1,8 +1,7 @@
-![Моё фото](/assets/me.jpg)
+![Моё фото](/assets/me.jpeg)
 
 Hi!
 
 ## Links
-- [GitHub](https://github.com/username)
-- [Telegram](https://t.me/username)
-- [LinkedIn](https://linkedin.com/in/username)
+- [GitHub](https://github.com/sasha-belikova)
+- [LinkedIn](https://linkedin.com/in/aleksandrabelikova)
